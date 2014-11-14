@@ -72,11 +72,14 @@ function brute_force($text, $pattern)
 
 $n=count($text);
 $m=count($pattern);
-  for($i = 0; $i < $n; i++) {
-    for(j = 0; j < m && i + j < n; j++) 
-      if(text[i + j] != pattern[j]) break;
+
+  for($i = 0; $i < $n; $i++) {
+    for($j = 0; $j < $m && $i + $j < $n; $j++) 
+      if($text[$i + $j] != $pattern[$j]) break;
       // mismatch found, break the inner loop
-    if(j == m) // match found
+    if($j == $m){
+		echo "return true";
+	}// match found
   }
 }
 
