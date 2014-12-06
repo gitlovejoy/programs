@@ -1,5 +1,6 @@
 <?php
 
+//get closest sum pairs
 $arr=array(10,20,30,24,26,40,-10,60);
 
 //$arr=array(-10,-30,10,0,20,40);

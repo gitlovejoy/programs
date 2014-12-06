@@ -1,0 +1,39 @@
+11. Print all subset of an array  https://www.youtube.com/watch?v=wVNV3JEcikA  ( Recursive )
+14: Print all possible combinations of coins per change amount   https://www.youtube.com/watch?v=3VBjhiKUtmE
+15: Find the 'closest' value in a BST with a given search value 
+
+
+Code Academy
+
+## Binary search
+ * Binary search iterative
+ * Binart search recursive
+ * Find first and last occurance of a number in sorted array
+ * count occurances of duplicates in sorted sub array
+ * how many times a circular sorted array is rotated
+ * search element in sorted array
+
+* Maxium sub array sum
+
+* largest subset that has sequence http://www.careercup.com/question?id=11070934
+* combination of  an array string
+* permutation of a string
+* permutation of a string in a string of size k (abc) k=2 ,allow duplciates, aa,ab,ac,bb,ba,bc,cc,ca,cb
+
+M
+
+* reverse integers
+* reverse words in a string
+* longest substring with only two unique characters.
+
+
+Programming Interviews: Find Maximum and Minimum using Divide and Conquer
+
+
+Sri
+//1. coin change way
+//2. coin change min
+//3. spiral change
+//4. permutation
+//5. cominiation
+//kth smallest max 
