@@ -2,9 +2,60 @@
 
 
 
-$str = "123";
+$str = "abc";
 
-permute($str,0,strlen($str)); // call the function.
+//permute($str,0,strlen($str)); // call the function.
+
+$used=array(false,false,false);
+$output=array();
+$str_len=strlen($str);
+$position=0;
+
+//permuteNoSwap($str,$used,$output,$str_len,$position);
+
+function permuteNoSwap($str,$used,$output,$str_len,$position){
+	//have one fixed and permutate rest of charcter til legnth of array equal to postions
+	//base condition to stop recursion
+	//Loop over each element with one element fixed
+	//if element is already used skip
+	//else add to element to output,mark it used
+
+	$input_array=convertToArray($str);
+	
+	if($str_len==$position){
+		echo implode(',',$output)."\n";
+			
+		return;//
+	}else{
+	
+		for($i=0;$i<$str_len;$i++){
+			
+			//if used mark it as used
+			if($used[$i])
+				continue;
+			else{
+
+				$output[]=$input_array[$i];
+				$used[$i]=true;
+
+				permuteNoSwap($str,$used,$output,$str_len,$position+1);
+			
+				//delete one char from last
+				//unset($output[count($output)-1]);
+				$output=array_slice($output,0,count($output)-1);
+				$used[$i]=false;
+			}
+
+		}
+	}
+	
+
+}
+
+function convertToArray($str){
+	return str_split($str);
+}
+
 
 
 // function to generate and print all N! permutations of $str. (N = strlen($str)).
@@ -46,8 +97,10 @@ function string_getpermutations($prefix, $characters, &$permutations)
         {
             $tmp = $characters;
             unset($tmp[$i]);
+			$prefix=$prefix . $characters[$i];
 		
-			string_getpermutations($prefix . $characters[$i], array_values($tmp), $permutations);
+
+			string_getpermutations($prefix, array_values($tmp), $permutations);
         }
     }
 }
@@ -58,10 +111,10 @@ for ($i = 0; $i < strlen($input); $i++)
     $characters[] = $input[$i];
 $permutations = array();
 
-//print_r($characters);
+print_r($characters);
 string_getpermutations("", $characters, $permutations);
 
-//print_r($permutations);
+print_r($permutations);
 
 $array=array(1,2,3);
 //permute2($array);

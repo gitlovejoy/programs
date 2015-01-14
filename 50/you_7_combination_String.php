@@ -7,7 +7,29 @@ $n=count($a);
 $k=1;
 
 
-combination($a,$k,$n);
+//combination($a,$k,$n);
+
+$str='abcd';
+combinationAlgo($str);
+
+function combinationAlgo($str){
+	
+	$input_array=convertoArray($str);
+	$result_array=array();
+
+	foreach($input_array as $input){
+		foreach($result_array as $result){
+			$result_array []=$input.$result;
+		}
+		$result_array[]=$input;
+	}
+
+	print_r($result_array);
+}
+ 
+function convertoArray($str){
+	return str_split($str);
+}
 
 function combination($a,$k,$n){
 

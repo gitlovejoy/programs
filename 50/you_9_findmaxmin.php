@@ -14,8 +14,6 @@ findMaxMin($array,$i,$j,0,0);
 
 function findMaxMin($array,$i,$j,$min,$max){
 
-	//$i=0;
-	//$j=0;
 	if($i==$j){
 		$max=$array[$i];
 		$min=$array[$i];
@@ -42,8 +40,8 @@ function findMaxMin($array,$i,$j,$min,$max){
 		//$max1=$min1=$mid;
 
 		//divide and conquer
-		list($rmax,$rmin)=findMaxMin($array,$i,$mid,$min,$max);
-		list($rmax1,$rmin1)=findMaxMin($array,$mid+1,$j,$min1,$max1);
+		list($max,$min)=findMaxMin($array,$i,$mid,$min,$max);
+		list($max1,$min1)=findMaxMin($array,$mid+1,$j,$min1,$max1);
 /*
 		if($rmax>$rmax1){
 			//echo "Max=".$rmax."\t";
@@ -72,7 +70,9 @@ function findMaxMin($array,$i,$j,$min,$max){
 			$min=$min1;
 		
 	}
+
 	echo "max=".$max."\t min=".$min."\n";
+	return array($max,$min);
 
 }
 

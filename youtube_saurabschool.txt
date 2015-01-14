@@ -1,0 +1,146 @@
+Data Structure
+----------------
+Programming Interview: Introduction to Linked List (Part 1) Data Structure    http://www.youtube.com/v/TwjoIUdqByI?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Data Structure: Linked List Basics (Part 2)    http://www.youtube.com/v/FtruMO2jsTs?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Linked List: Count Number of Nodes    http://www.youtube.com/v/yJLFyy6nCIM?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Linked List: Delete complete Linked List    http://www.youtube.com/v/vWPitQWUZsE?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Linked List: Sorted Insert    http://www.youtube.com/v/-Wt88_rkWaE?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Data Structure: Append Linked List    http://www.youtube.com/v/6-JM0RTF_Jw?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Data Structures Algorithm: Size of Tree (Count Number of nodes in a Tree)    http://www.youtube.com/v/sqVefIEttT0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview:Data Structures Algorithm: Insertion in Binary Search Tree    http://www.youtube.com/v/49r2Lc07UV4?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Data Structures Algorithm: Inorder Binary Tree Traversal    http://www.youtube.com/v/ZkH3SSPwcwI?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Data Structures Algorithm: Minimum Value of Binary Search Tree    http://www.youtube.com/v/UArazc_xU7Q?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Data Structures Algorithm: Searching Element in a Binary Search Tree    http://www.youtube.com/v/i2XOV21vGVk?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Data Structures Algorithm: Maximum Depth of Binary Search Tree    http://www.youtube.com/v/hzEWYlQDA3w?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Data Structures Algorithm:Binary search Tree: isBST (Is a binary tree BST)    http://www.youtube.com/v/yGrotz7SQAI?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Data Structures Algorithm: Binary Search Tree: Print all Possible Paths    http://www.youtube.com/v/jQS9hVxU5k8?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews:Algorithm Data Structure: Binary Trees: Check if Two Trees are Same    http://www.youtube.com/v/hW3NUtW4XMg?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Linked List: Get the data in the Nth Node    http://www.youtube.com/v/eLos6GFpl0k?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Breadth First Search (BFS): Graph Theory    http://www.youtube.com/v/5pNIul92cj0?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Depth First Search (DFS): Graph Theory    http://www.youtube.com/v/gCNsAKkUHPM?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Reverse a Linked List (Iterative)    http://www.youtube.com/v/FRab13yyYms?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Reverse Linked List Recursively    http://www.youtube.com/v/CXjQUdAwRSg?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Write All Permutations of a String    http://www.youtube.com/v/MQcwxQK2DPA?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Primality Testing: Randomized Algorithm    http://www.youtube.com/v/wfo1cdvP9Cg?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Repeated Element from an Array (Randomized Algorithm)    http://www.youtube.com/v/82UBcT_xXL8?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Reconstruct Binary Tree from Inorder and Preorder Traversals    http://www.youtube.com/v/PAYG5WEC1Gs?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Find Maximum and Minimum using Divide and Conquer    http://www.youtube.com/v/dEyRl9Tj83g?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Merge to sorted Arrays in Linear Time    http://www.youtube.com/v/ypnZkkjPEAY?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Partitioning of an Array in Linear Time    http://www.youtube.com/v/rZdV64uq5KM?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Select the kth smallest element from an array    http://www.youtube.com/v/kcVk30zzAmU?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Add Two Very Large Number (out of range of int)    http://www.youtube.com/v/pP6GWIaiELM?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Find Path in NXN Maze (Backtracking problem)    http://www.youtube.com/v/keb6rP07Yqg?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Diameter of Binary Tree    http://www.youtube.com/v/i9nVJDr4HmA?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Counting Sort (sort in O(n) time complexity)    http://www.youtube.com/v/w9njRpeuVew?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Data Structure: Stack: Find Range of Stack in O(1) Time    http://www.youtube.com/v/BOxJvXGNHys?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Algorithm: 3 SUM problem    http://www.youtube.com/v/hLabfN0zjeU?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Algorithm: Reverse the words of a String or Sentence    http://www.youtube.com/v/WCaigw6Bz1M?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Delete all the nodes of a binary search tree (BST)    http://www.youtube.com/v/qZbmY-2Y26Y?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Partition Array in Equal Halves with Minimum Sum Difference    http://www.youtube.com/v/ItF22I8f3Xs?version=3&f=playlists&app=youtube_gdata 
+Programming Interviews: Print all Combinations of an Array    http://www.youtube.com/v/p8SDPaX1wgw?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Print a Binary Tree in Post Order Traversal (Iterative using Stack)    http://www.youtube.com/v/hv-mJUs5mvU?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Print all the possible Interleaving of two Strings    http://www.youtube.com/v/jspbN5bNPqM?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Find number of ways to select k numbers from 1 to N that add to N    http://www.youtube.com/v/B9C-UntuQ7c?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: hasPathSum (Binary Search Tree)    http://www.youtube.com/v/CIxCP2qBITo?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Cutting a Rod (Dynamic Programming)    http://www.youtube.com/v/U-09Gs6cbsQ?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: 0/1 Knapsack Problem (Dynamic Programming)    http://www.youtube.com/v/UhFvK3uERGg?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Optimal Binary Search Tree (Dynamic Programming)    http://www.youtube.com/v/DEOebw3vmXs?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Balanced Partition of Array (Dynamic Programming)    http://www.youtube.com/v/GdnpQY2j064?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Maximum Sub-Matrix Sum (Dynamic Programming)    http://www.youtube.com/v/siaRlAtip9I?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: N Queens Problem (Backtracking)    http://www.youtube.com/v/p4_QnaTIxkQ?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Longest Common Subsequence Dynamic Programming    http://www.youtube.com/v/wJ-rP9hJXO0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Binary Tree to Doubly Linked List in place    http://www.youtube.com/v/WJZtqZJpSlQ?version=3&f=playlists&app=youtube_gdata 
+
+Programming Interview: Lowest Common Ancestor Binary Tree    http://www.youtube.com/v/LFjCr2yDJdc?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: All Pair Shortest Path (Floyd Warshall ) Dynamic Programming    http://www.youtube.com/v/EMAoMMsA5Jg?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Travelling Salesman Problem (Dynamic Programming)    http://www.youtube.com/v/aQB_Y9D5pdw?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Make Valid Equation (Backtracking)    http://www.youtube.com/v/14Jb7aycv3c?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Detect if two Integers have opposite Signs (Bit Manipulation)    http://www.youtube.com/v/Z59REm2YKX0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Absolute Value of Integer without Branching (Bit Manipulation)    http://www.youtube.com/v/zJGts7hOX9s?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Determining if an integer is a power of 2 (bit manipulation)    http://www.youtube.com/v/lTxU9O-dzFc?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Set, Clear, Toggle and Get Value of a Single Bit in C (Bit Manipulation)    http://www.youtube.com/v/HWTnwZQmhpc?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Count Number of Binary Search Tress given N Distinct Elements (Recursion)    http://www.youtube.com/v/UfA_v0VmiDg?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Calculate Power(x,N) using Divide and Conquer    http://www.youtube.com/v/4ivUTBDnki0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Sum of Subset (Backtracking)    http://www.youtube.com/v/WRT8kmFOQTw?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Graph Coloring using Backtracking    http://www.youtube.com/v/Cl3A_9hokjU?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: String Concatenation (strcat)    http://www.youtube.com/v/Kd60eFpVzGU?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Function and Class Templates in C++    http://www.youtube.com/v/hxCnT_gUOa4?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Function and Class Templates in C++    http://www.youtube.com/v/hxCnT_gUOa4?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Smart Pointers (auto_ptr) C++    http://www.youtube.com/v/xz4XZleALBw?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: C++ Templates    http://www.youtube.com/v/fQGCseGhrLM?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Operator Overloading in C++    http://www.youtube.com/v/piz-kDEER8E?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Unary Operator Overloading in C++    http://www.youtube.com/v/AxcnLoubcRY?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Binary Operator Overloading in C++    http://www.youtube.com/v/LCzMzQB8144?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: References in C++ vs Pointers in C    http://www.youtube.com/v/X7kdzeiKbdo?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Copy Constructors (Deep and Shallow Copy) C++    http://www.youtube.com/v/Palwk37qYC0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: New and Delete in C++ vs malloc and free in C    http://www.youtube.com/v/bgZ4L1-86zI?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: functions C++ generates automatically (constructor, copy, assignment)    http://www.youtube.com/v/DcKU7QTkN34?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Non Copyable C++ class    http://www.youtube.com/v/WucaV19W__g?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Virtual Destructors in C++: Why we need them    http://www.youtube.com/v/aQjHxOHhwiU?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Calling virtual function in constructor or destructor in C++    http://www.youtube.com/v/AsIPAcC85qI?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Shared Pointers (Smart Pointers) C++    http://www.youtube.com/v/etGi6eH3nAg?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Use of Resource Acquisition is Initialization for Mutex Locking C++    http://www.youtube.com/v/bIeSvkfZXZs?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Problems of Pass By Value in C++ (Pass by const reference)    http://www.youtube.com/v/0w2IMCZhr_8?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Exception Handling in C++    http://www.youtube.com/v/FZe3e8jUXy0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Doubly Linked List Insert Operation    http://www.youtube.com/v/Fz5tw2Du_d0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Infix to Postfix Conversion    http://www.youtube.com/v/uGPzXmkZTtE?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Analyzing Running Time Complexity of Algorithm    http://www.youtube.com/v/Ok1_mpAlk2I?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Heap data structure (Max Heapify - Maintaining Heap Property)    http://www.youtube.com/v/ScF985Y4DJc?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Quick Sort Algorithm (Analysis and Partitioning)    http://www.youtube.com/v/8a17hSIUpQQ?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Shortest Path in multistage graph using dynamic programming (Part 1)    http://www.youtube.com/v/m5Y-4TsXsJ0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Binary Search Tree Successor    http://www.youtube.com/v/jSZ4e3cmh2A?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Deletion of node from Binary Search Tree (BST)    http://www.youtube.com/v/MVAlC3zQBYg?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: 0/1 Knapsack problem using Branch and Bound Method (Part 1)    http://www.youtube.com/v/slayHO7gKEQ?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Branch and Bound (Travelling Salesman Problem) Part 1    http://www.youtube.com/v/FJkT_dRjX94?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Semaphore in Operating System Multi-Threading (Part 1)    http://www.youtube.com/v/cIkzOOcdh2Y?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Threads in Operating System (Java) Multithreading Runnable Interface Part 1    http://www.youtube.com/v/51KeZazThyI?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Threads in Operating System (Java ) Part 2 Multithreading    http://www.youtube.com/v/c-Rztur1fBs?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Producer Consumer Problem in Operating System (Thread Synchronization)    http://www.youtube.com/v/u3MUdI1B-X8?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Java Socket Programming + Client Server and Network Programming    http://www.youtube.com/v/MC0py15WAqo?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Thread Interference (Java Thread Synchronization) Synchronized Counter    http://www.youtube.com/v/jwyYNcUYDb0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Deadlock in Operating System + Thread Deadlock in Java    http://www.youtube.com/v/cNCFltoh1fE?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Java Threads wait, notify and synchronized    http://www.youtube.com/v/lgMXOSJLORw?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Java Lock (Mutual Exclusion) Mutex    http://www.youtube.com/v/FRm6zJRAOTI?version=3&f=playlists&app=youtube_gdata 
+
+Programming Interview: Java Lock vs Reentrantlock (Reentrantlock)    http://www.youtube.com/v/3y4zGH2eokA?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Signalling via Shared Object (Java Concurrent Multi-threaded Programming)    http://www.youtube.com/v/Z1Dx6dEAx-c?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Thread Signalling via Shared Object (Busy Waiting)    http://www.youtube.com/v/Q3io7dhceH8?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Number of Binary Trees with n nodes (Catalan number)    http://www.youtube.com/v/SIXAYLoKLc8?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Generating Function Recurrence Relation (Fibonacci Series)    http://www.youtube.com/v/mZlEbRJNO68?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: AVL Tree (Introduction and properties Height, Balance, BST) Part 1    http://www.youtube.com/v/rwzuze_tTwQ?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: AVL Tree Insertion (Double Rotation LR RL) Part 3    http://www.youtube.com/v/z-gIrPMeFxU?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Flow Network+ Ford Fulkerson Algorithm +Max Flow Min Cut    http://www.youtube.com/v/PY0LL_-jqa0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Huffman Coding +Compression Algorithm +Prefix Coding (Part 1)    http://www.youtube.com/v/L0y7_9jUFT0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Huffman Coding Greedy Algorithm Example (Part 2)    http://www.youtube.com/v/8Luos4F9UIw?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Sudoku Solving Algorithm using Backtracking (Part 1)    http://www.youtube.com/v/IX3qHsLGvq8?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Sudoku Solving Algorithm using Backtracking (Code dry run) Part 2    http://www.youtube.com/v/P9_F7kuHU90?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Knuth Morris Pratt (KMP) Algorithm Prefix Calculation (Part 2)    http://www.youtube.com/v/UsmvbZGKdlM?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Knuth Morris Pratt (KMP) Algorithm KMP Matcher Algorithm (part 3)    http://www.youtube.com/v/DMmMVy3y1FI?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Knuth Morris Pratt Algorithm (KMP) Introduction Prefix function (part 1)    http://www.youtube.com/v/SVKe7bvQ4Xk?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Design Pattern: Observer Pattern Observer and Observable class Java    http://www.youtube.com/v/xs16zXPc4tM?version=3&f=playlists&app=youtube_gdata 
+Programming Interview:Design Pattern: Implementing your own Observer Pattern class    http://www.youtube.com/v/-vlhMwr4jEQ?version=3&f=playlists&app=youtube_gdata 
+Programming Interview:Design Pattern: Decorator Pattern Introduction (Part 1)    http://www.youtube.com/v/UvB-vrSM2cg?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Design Pattern: Decorator Pattern Java Example (Part 2)    http://www.youtube.com/v/DnWjhm1_15k?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Introduction to Operating System (OS definition) (part 1)    http://www.youtube.com/v/nZRqPctQf8U?version=3&f=playlists&app=youtube_gdata 
+Introduction to Operating System (Computer System Organization Interrupt Handling)    http://www.youtube.com/v/oJMYYMIGVMU?version=3&f=playlists&app=youtube_gdata 
+Introduction to Operating System: Storage Structure, Hierarchy and Caching    http://www.youtube.com/v/Uu-una86YAU?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: System Calls in operating system    http://www.youtube.com/v/dmHaiRxqghU?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Virtualization and Virtual Machines (Operating System)    http://www.youtube.com/v/GCBXndcThl0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Processes in Operating System    http://www.youtube.com/v/r3jYC80Pm_Q?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Process Control Block in Operating system (PCB)    http://www.youtube.com/v/_DsbzX0sMjI?version=3&f=playlists&app=youtube_gdata 
+Operating System: Inter Process Communication: Message Passing Shared Memory    http://www.youtube.com/v/dQE6BDNc3z0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Process Scheduling in Operating System    http://www.youtube.com/v/1fwxHAf1E88?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Remote Procedure Call in Operating System    http://www.youtube.com/v/MNajQHiA2-k?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Threads in Operating System + Thread Control Block    http://www.youtube.com/v/Kc5vfuG8ZAc?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: How does Operating system dispatch thread + thread scheduling    http://www.youtube.com/v/hCvF7xnP-OE?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Life Cycle of threads and processes in Operating System    http://www.youtube.com/v/EMKHRxeCfFU?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Processes and Threads in Operating System    http://www.youtube.com/v/yocLHHtmA7M?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: First Come First Serve (FCFS) OR First IN First Out (FIFO) Scheduling    http://www.youtube.com/v/QB9EMXOPCus?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Round Robin Scheduling Algorithm    http://www.youtube.com/v/29GsBR5rlj0?version=3&f=playlists&app=youtube_gdata 
+Bellman Ford Algorithm (Single Source Shortest Paths Negative Length Edges)    http://www.youtube.com/v/mbmHkrYITTc?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Edit Distance Dynamic Programming Algorithm (Part 1)    http://www.youtube.com/v/-umsVjd2EF0?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Edit Distance Dynamic Programming Algorithm Example (Part 2)    http://www.youtube.com/v/iYa9AqB3wPc?version=3&f=playlists&app=youtube_gdata 
+Programming Interview: Finding Closest Pair of Points in Plane (Divide and Conquer) Part 2    http://www.youtube.com/v/_pSl90jq-m0?version=3&f=playlists&app=youtube_gdata 
+Handle Questions involving Modulo | Get Code Accepted in Code chef| Modulo properties    http://www.youtube.com/v/5LHqXXmc1Xg?version=3&f=playlists&app=youtube_gdata 
+
+

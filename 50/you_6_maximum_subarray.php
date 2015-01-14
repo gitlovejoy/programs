@@ -2,9 +2,9 @@
 
 $array=array( 1,-3,2,-5,6,7,-1,-4,11,-23);
 
-echo maximum_sumsub_array($array);
+//echo maximum_sumsub_array($array);
 
-echo maximum_sumsub_array_kanane($array);
+//echo maximum_sumsub_array_kanane($array);
 
 
 function maximum_sumsub_array($array){
@@ -30,6 +30,53 @@ function maximum_sumsub_array($array){
 		}
 	}
 	return $answer;
+}
+
+$array=array(3,-2,5,-1);
+$n=count($array);
+$output= maxSubArrayDivideConquer($array,$n);
+
+echo "output=".$output;
+function maxSubArrayDivideConquer($array,$n){
+
+	if($n==1)
+		return $array[0];
+	else{
+		$m=$n/2;
+		echo "-----------m=".$m."\n";
+		$leftMSS=maxSubArrayDivideConquer($array,$m);
+		$rightMSS=maxSubArrayDivideConquer($array[$m],$n-$m);
+
+echo "leftMSS=".$leftMSS."\n";
+echo "rightMSS=".$rightMSS."\n";
+
+		$leftsum=-12121;
+		$rightsum=-12121;
+
+		
+		$sum=0;
+		for($i=($m-1);$i>=0;$i--){
+			$sum=$sum+$array[$i];
+			$leftsum=max($sum,$leftsum);
+		}
+		echo "leftsum=".$leftsum."\n";
+
+		
+		$sum=0;
+
+		for($i=$m;$i<$n;$i++){
+			$sum=$sum+$array[$i];
+			$rightsum=max($sum,$rightsum);
+		}
+		echo "rightsum=".$rightsum."\n";
+
+		
+
+		$answer=max($leftMSS,$rightMSS);
+
+		return max($answer,$leftsum+$rightsum);
+	}
+	
 }
 
 function maximum_sumsub_array_kanane($array){
